@@ -1,0 +1,22 @@
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\bin\Debug\final_proyect_fisicaII.exe.config
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\bin\Debug\final_proyect_fisicaII.exe
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\bin\Debug\final_proyect_fisicaII.pdb
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.AssemblyReference.cache
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.Form1.resources
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.Properties.Resources.resources
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.GenerateResource.cache
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.CoreCompileInputs.cache
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.exe
+D:\Users\Kevin\Documentos\c#projects\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.pdb
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.AssemblyReference.cache
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.SuggestedBindingRedirects.cache
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.Form1.resources
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.GenerateResource.cache
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\final_proyect_fisicaII.csproj.CoreCompileInputs.cache
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\bin\Debug\circuito_electrico.exe.config
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\bin\Debug\circuito_electrico.exe
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\bin\Debug\circuito_electrico.pdb
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\circuito_electrico.Properties.Resources.resources
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\circuito_electrico.exe
+D:\Users\Kevin\1\PROYECTOS FINALES 2022\PROYECTO FINAL FISICA\final_proyect_fisicaII\obj\Debug\circuito_electrico.pdb
